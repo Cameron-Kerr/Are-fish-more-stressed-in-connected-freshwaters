@@ -48,3 +48,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Private Excel files
+*.xlsx
+*.xls
+
+# Private data folders
+data/private/
+data/raw/
