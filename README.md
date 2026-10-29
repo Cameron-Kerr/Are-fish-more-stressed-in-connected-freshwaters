@@ -14,7 +14,7 @@ of the freshwaters (1).
 - The relationship between fish species richness in fresh waters and connectivity to other
 nearby freshwaters (2).
 - How the relationship between the stressor variables and species richness is affected
-depending on how connected the given freshwater is to other nearby freshwaters (3)
+depending on how connected the given freshwater is to other nearby freshwaters (3).
 ## Repository Contents
 - README.md – Overview of the project, including selected figures.
 
@@ -26,7 +26,7 @@ depending on how connected the given freshwater is to other nearby freshwaters (
 
 - .gitignore – Specifies files that should not be tracked by Git.
 
-- LICENSE - MIT License
+- LICENSE - MIT License.
 ### Data Availability 
 The original xlsx has not been made public 
 ## Methods and Analysis 
